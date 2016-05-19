@@ -1,0 +1,8 @@
+{
+  "name": “BrooklynList”,
+  "description": "An open-source community app built with Meteor",
+  "repository": "https://github.com/dailyfactory/bklist.git",
+  "logo": "http://www.telescopeapp.org/images/logo.png",
+  "website": “brooklynlist.scalingo.io”,
+  "addons": ["scalingo-mongodb"]
+}
